@@ -1,9 +1,0 @@
-form
-form---->eventhandining
-label---->for
-input---->type---->text,number,email,password,data,telephone,placeholder
-button---->type---->submit,reset,mole
-\
-intermediate Css
-general term:frontend
-precise term:Information/content
