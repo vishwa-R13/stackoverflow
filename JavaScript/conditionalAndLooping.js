@@ -27,16 +27,16 @@ for(;;)
 //     console.log(i);
 // }
 
-object1 ={
-    "firstname":"mr",
-    "lastname":"raiyan",
-    "dptmt":["it","ad","csc","mech"],
-    "training":"MERN"
-}
+// object1 ={
+//     "firstname":"mr",
+//     "lastname":"raiyan",
+//     "dptmt":["it","ad","csc","mech"],
+//     "training":"MERN"
+// }
 
-Object.entries(object1).forEach((key,ele)=>{
-    console.log(key,ele);
-})
+// Object.entries(object1).forEach((key,ele)=>{
+//     console.log(key,ele);
+// })
 
 
 // for(i of object1){
@@ -45,3 +45,12 @@ Object.entries(object1).forEach((key,ele)=>{
 // for({key,value} of Object.entries(object1)){ task1-{}for key value
 //     console.log(key,value);
 // }
+
+// let a = 10;
+// while(a<=12){
+//     console.log(a);
+//     a++;
+// }
+// a = 69;
+// console.log(a);
+
