@@ -6,9 +6,9 @@ function Home(properties){
 
     }
     return (<div>
-        <h1 style={style}>Home Page</h1>
+        {/* <h1 style={style}>Home Page</h1> */}
         <h2>Below tag is for property</h2>
-        <h3>Props:{properties.properties}{properties.sjit}</h3>
+        <h3>Props:{properties.properties}</h3>
     </div>);
 }
 export default Home;
